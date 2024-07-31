@@ -1,0 +1,7 @@
+C:\Users\GioLGA\Desktop\DotNet1\ThreadJoin\ThreadJoin\bin\Debug\ThreadJoin.exe.config
+C:\Users\GioLGA\Desktop\DotNet1\ThreadJoin\ThreadJoin\bin\Debug\ThreadJoin.exe
+C:\Users\GioLGA\Desktop\DotNet1\ThreadJoin\ThreadJoin\bin\Debug\ThreadJoin.pdb
+C:\Users\GioLGA\Desktop\DotNet1\ThreadJoin\ThreadJoin\obj\Debug\ThreadJoin.csproj.AssemblyReference.cache
+C:\Users\GioLGA\Desktop\DotNet1\ThreadJoin\ThreadJoin\obj\Debug\ThreadJoin.csproj.CoreCompileInputs.cache
+C:\Users\GioLGA\Desktop\DotNet1\ThreadJoin\ThreadJoin\obj\Debug\ThreadJoin.exe
+C:\Users\GioLGA\Desktop\DotNet1\ThreadJoin\ThreadJoin\obj\Debug\ThreadJoin.pdb
